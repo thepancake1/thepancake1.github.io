@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on thepancake1&#39;s Stuff</title>
+    <link>https://thepancake1.github.io/posts/</link>
+    <description>Recent content in Posts on thepancake1&#39;s Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jun 2021 03:08:10 +0800</lastBuildDate><atom:link href="https://thepancake1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Look at this beautiful man</title>
+      <link>https://thepancake1.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 23 Jun 2021 03:08:10 +0800</pubDate>
+      
+      <guid>https://thepancake1.github.io/posts/my-first-post/</guid>
+      <description>Cavetown? More like, idk, cavecity </description>
+    </item>
+    
+  </channel>
+</rss>
